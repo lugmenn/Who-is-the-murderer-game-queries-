@@ -1,0 +1,2 @@
+The SQL Murder Mistery (https://mystery.knightlab.com/) is a popular online game where you take the place of a detective and have to put in practice your SQL skills to merge tables and extract important data by writing queries in order to solve a crime.
+Here, you will search for data regarding witnessess, addresses and some other tables with records that might take you find the criminal, while perfecting the way you write your queries in an effective manner.
